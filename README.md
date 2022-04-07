@@ -37,7 +37,7 @@ This project will require
 2. Clone the code from this repository
 
    ```sh
-   git clone https://github.com/JaydenPienaar123/WeatherAPI.git
+   git clone https://github.com/JaydenPienaar123/weatherforecast-main.git
    ```
 
 <!-- USAGE EXAMPLES -->
