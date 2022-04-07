@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\weatherforecast-main\\WeatherAPI.csproj": {}
+    "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\WeatherAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\weatherforecast-main\\WeatherAPI.csproj": {
+    "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\WeatherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\weatherforecast-main\\WeatherAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\WeatherAPI.csproj",
         "projectName": "WeatherAPI",
-        "projectPath": "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\weatherforecast-main\\WeatherAPI.csproj",
+        "projectPath": "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\WeatherAPI.csproj",
         "packagesPath": "C:\\Users\\jpienaar.SINGULAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\weatherforecast-main\\obj\\",
+        "outputPath": "C:\\Users\\jpienaar.SINGULAR\\Downloads\\weatherforecast-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpienaar.SINGULAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
